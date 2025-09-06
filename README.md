@@ -21,16 +21,36 @@ It lets users create bank accounts, deposit and withdraw money, view account det
 
 Here is a quick demo of how this Banking Application works:
 
+# Banking Application
+
+This is a simple Java-based Banking Application that allows users to:
+
+- Create a new account
+- Deposit money
+- Withdraw money
+- View account details
+- Update contact details
+- Exit the application
+
+---
+
+## Sample Run / Demo
+
+```text
 Welcome to the Banking Application!
+
 1. Create a new account
 2. Deposit money
 3. Withdraw money
 4. View account details
 5. Update contact details
 6. Exit
+
 Enter your choice: 1
 Enter account holder name: Nakul Arora
 Enter initial deposit amount: 100000000000
 Enter email address: nakularora697@gmail.com
 Enter phone number: 9310384886
+
 Account created successfully with Account Number: 1001
+
